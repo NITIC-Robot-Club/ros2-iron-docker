@@ -1,0 +1,15 @@
+{
+    "folders": [
+      {
+        "name": "ros2-iron-docker",
+        "path": "."
+      }
+    ],
+    "settings": {
+      "files.associations": {
+        "types.h": "c",
+        "netdb.h": "c"
+      }
+    }
+
+  }
